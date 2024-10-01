@@ -1,2 +1,2 @@
-# Whimsical Fish
+# Whomsical Fosh
 Fishing game
